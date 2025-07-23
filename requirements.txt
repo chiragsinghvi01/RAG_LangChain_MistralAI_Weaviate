@@ -7,5 +7,6 @@ weaviate-client
 pyPDF
 python-dotenv
 IPython
+ipywidgets
 tiktoken
 rapidocr-onnxruntime
